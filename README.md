@@ -4,7 +4,7 @@
 
 Description:  Python procedure written for quick upload and run on Colab platform or for copy in Python consol useful for analysis and evaluation of potential Tickers elegible in next S&P 500 Index quarterly balance.
 
-Main criteria to satisfy for S&P 500 portfolio candidates (September 2026):
+Main criteria to satisfy to be a S&P 500 portfolio candidate are as follow (September 2026):
 
 1 - Headquarters and Listing: company incorporated in the U.S.; primary listing on the NYSE or Nasdaq.
 
