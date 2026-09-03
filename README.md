@@ -18,5 +18,5 @@ The procedure searches for Tickers candidates with a web scraping method from:
 - Yahoo Finance: the  Yahoo! Finance's API to extract potential S&P 500 candidates criteria data and values linked to Tickers    
 to dynamically fetch tickers providing a significantly broader and non-hardcoded list of major US companies for screening process.
 
-From this broad universe, excluding the current S&P 500 members (always extracted from Wikipedia source), procedure selects 10 potential new candidates that meet all S&P 500 defined eligibility criteria, including the new 1-week momentum calculation. 
+From this broad universe, excluding the current S&P 500 members (always extracted from Wikipedia source), procedure selects potential new candidates that meet all S&P 500 defined eligibility criteria, including the new 1-week momentum calculation. 
 Candidates are displayed and sorted by descending market capitalization and 1 week - momentum percentage value 
