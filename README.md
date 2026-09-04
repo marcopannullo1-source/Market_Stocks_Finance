@@ -8,7 +8,7 @@ Main criteria to satisfy to be a S&P 500 portfolio candidate are as follow (Sept
 - Headquarters and Listing: company incorporated in the U.S.; primary listing on the NYSE or Nasdaq
 - Market Capitalization (unadjusted) ≥ 22.7 billion USD (threshold reviewed quarterly; effective July 2025)
 - Free Float: the market value of the free float must be ≥ 50% of the index’s minimum market capitalization threshold, therefore ≥ 11.35 billion USD (50% of 22.7 billion)
-- Minimum Free Float (percentage of shares) ≥ 10% of outstanding shares must be in free float (Investable Weight Factor ≥ 0.10)
+- Minimum Free Float (percentage of shares): ≥ 10% of outstanding shares must be in free float (Investable Weight Factor ≥ 0.10)
 - Liquidity – Monthly Volumes: at least 250,000 shares traded per month in the 6 months prior to the evaluation
 - Liquidity – DV/Float-Cap Ratio: annual dollar value traded / float-adjusted market cap ≥ 0.75
 - Profitability (GAAP): positive net income in the last quarter and positive cumulative net income over the last 4 quarters
